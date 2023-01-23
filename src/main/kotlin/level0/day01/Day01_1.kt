@@ -1,6 +1,6 @@
 package level0.day01
 
-private class Solution1 {
+class Day01_1 {
     fun solution(num1: Int, num2: Int): Int {
         Validator1.validateInputRange(num1)
         Validator1.validateInputRange(num2)
